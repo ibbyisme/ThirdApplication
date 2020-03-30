@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThirdApplication</string>
+    <string name="绑定到service">绑定到service</string>
+    <string name="绑定service">绑定service</string>
+    <string name="解除绑定">解除绑定</string>
+    <string name="获取service状态">获取service状态</string>
+</resources>
